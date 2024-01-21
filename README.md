@@ -1,2 +1,2 @@
-# Section-3-Strings
+# Section 3 - Strings
 5th Year LCCS
