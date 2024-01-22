@@ -1,7 +1,7 @@
 # Predict & Run
 _Pangram_ - A pangram is a sentence that uses every letter of the alphabet at least once. 
 
-👉Study the program below and see if you can predict what it does? 
+🕵🏽‍♂️Study the program below and see if you can predict what it does? 
 
 ✍Record your prediction in your copy.
 
